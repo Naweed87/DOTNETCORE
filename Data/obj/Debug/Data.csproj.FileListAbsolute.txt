@@ -1,0 +1,14 @@
+E:\Ali\VSProjects\Company\Data\bin\Debug\Data.dll.config
+E:\Ali\VSProjects\Company\Data\bin\Debug\Data.dll
+E:\Ali\VSProjects\Company\Data\bin\Debug\Data.pdb
+E:\Ali\VSProjects\Company\Data\bin\Debug\Entities.dll
+E:\Ali\VSProjects\Company\Data\bin\Debug\EntityFramework.dll
+E:\Ali\VSProjects\Company\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ali\VSProjects\Company\Data\bin\Debug\Entities.pdb
+E:\Ali\VSProjects\Company\Data\bin\Debug\EntityFramework.xml
+E:\Ali\VSProjects\Company\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ali\VSProjects\Company\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\Ali\VSProjects\Company\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\Ali\VSProjects\Company\Data\obj\Debug\Data.csproj.CopyComplete
+E:\Ali\VSProjects\Company\Data\obj\Debug\Data.dll
+E:\Ali\VSProjects\Company\Data\obj\Debug\Data.pdb

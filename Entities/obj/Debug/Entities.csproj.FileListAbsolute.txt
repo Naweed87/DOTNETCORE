@@ -1,0 +1,5 @@
+E:\Ali\VSProjects\Company\Entities\bin\Debug\Entities.dll
+E:\Ali\VSProjects\Company\Entities\bin\Debug\Entities.pdb
+E:\Ali\VSProjects\Company\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\Ali\VSProjects\Company\Entities\obj\Debug\Entities.dll
+E:\Ali\VSProjects\Company\Entities\obj\Debug\Entities.pdb
